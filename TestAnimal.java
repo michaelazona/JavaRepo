@@ -1,5 +1,4 @@
 import junit.framework.TestCase;
-import Animal;
 
 public class TestAnimal extends TestCase {
 
